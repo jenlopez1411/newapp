@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">newapp</string>
+    <string name="welcome">"Welcome "</string>
+    <string name="username">Username</string>
+    <string name="empty" />
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="landingpage">Landing Page</string>
+    <string name="wrong">Wrong Username</string>
+</resources>
